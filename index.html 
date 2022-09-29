@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    profile
+  </title>
+</head>
+<body>
+  <div aling="center">
+<h1>
+  Piter Gallego
+</h1>
+<h2>
+  SOFWARE DEVELOPER
+</h2>
+<hr>
+<h3>
+  I LOVE TO TRAINING LEARN NEW THING 
+</h3>
+<h4>
+  VENEZUELA
+</h4>
+<h4>
+  GREEN
+</h4>
+<h4>
+  LOMO SALTADO 
+</h4>
+<h4>
+  DOG
+</h4>
+  </div>
+</body>
+</html>
